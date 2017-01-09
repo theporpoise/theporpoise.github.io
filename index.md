@@ -8,13 +8,13 @@ I used to be interested in the things I could buy.  Now I'm interestd in the thi
 VR and distributed marketplaces.  
 
 ### Shoutouts - People and Projects worth looking
-@nickyspitz I fucking love your stats on your page.  Expect this page to look like your page soon :-)  
-https://ipfs.io/
-https://angel.co/uport/jobs
-https://solid.mit.edu/
-https://highfidelity.io/
-http://www.spacevr.co/#spacevr
-https://metamask.io/
+* @nickyspitz I fucking love your stats on your page.  Expect this page to look like your page soon :-)  
+* https://ipfs.io/
+* https://angel.co/uport/jobs
+* https://solid.mit.edu/
+* https://highfidelity.io/
+* http://www.spacevr.co/#spacevr
+* https://metamask.io/
 
 ### My love of Data On Pause
 I have a lot of experience with statistics, analysis, game theory, and a touch of machine learning.  I really do love data, but I somehow got a bit bored and became focused more on the backend foundational systems, the platforms, for interaction.  Hence the interest shift to VR and distributed marketplaces.  
