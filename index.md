@@ -2,12 +2,12 @@
 This website is a selection of things I've made as a way to get to know me better.  If you want to see more of how the sausage is made, I suggest you head over to my Github @theporpoise.  Expect a bit of philosophy dropped in here and there to provide context.
 
 ### Status
-I used to be interested in the things I could buy.  Now I'm interestd in the things I can make.  The transition from an american consumer to a responsible creator has taken a lot of interesting turns and been an amazing journey.  I love to make things and think about how they could be made better.  If you have a product, a vision, or a dream I'd love to be a contributor. 
+I'm interestd in the things I can make and learning how to make things.  The journey from an american consumer to a responsible creator has been a worthwhile endeavor - one I am fortunate to pursue for the rest of my life.  If you have a product, a vision, or a dream I'd love to be a contributor. 
 
 ### Current Interests
 VR and distributed marketplaces.  
 
-### Shoutouts - People and Projects worth looking
+### Shoutouts
 * @nickyspitz I  love your stats.  Expect this page to look like your page soon :-)  
 * [IPFS](https://ipfs.io/)
 * [UPORT](https://angel.co/uport/jobs)
@@ -24,10 +24,10 @@ Advanced statistical analysis (A.K.A. machine learning) is a great meta tool for
 I intend to come back to data, stats, and machine learning when there's more stuff to optimize :-).  Maybe in a year or two.
 
 ### LinkedIn and Github
-https://www.linkedin.com/in/matthew-gould-7877361
-https://github.com/theporpoise
+[LinkedIn](https://www.linkedin.com/in/matthew-gould-7877361)
+[Github](https://github.com/theporpoise)
 
 # To Do:
-Link to blog page at top
-Set up blog page with page stubs
-Create a busines timeline of what I've worked on and put in status section
+*Link to blog page at top
+*Set up blog page with page stubs
+*Create a project timeline of what I've worked on and put in status section
