@@ -24,8 +24,8 @@ Advanced statistical analysis (A.K.A. machine learning) is a great meta tool for
 I intend to come back to data, stats, and machine learning when there's more stuff to optimize :-).  Maybe in a year or two.
 
 ### LinkedIn and Github
-[LinkedIn](https://www.linkedin.com/in/matthew-gould-7877361)
-[Github](https://github.com/theporpoise)
+*[LinkedIn](https://www.linkedin.com/in/matthew-gould-7877361)
+*[Github](https://github.com/theporpoise)
 
 # To Do:
 *Link to blog page at top
