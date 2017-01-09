@@ -9,8 +9,8 @@ VR and distributed marketplaces.
 
 ### Shoutouts - People and Projects worth looking
 * @nickyspitz I fucking love your stats on your page.  Expect this page to look like your page soon :-)  
-* https://ipfs.io/
-* https://angel.co/uport/jobs
+* [IPFS](https://ipfs.io/)
+* [UPORT](https://angel.co/uport/jobs)
 * https://solid.mit.edu/
 * https://highfidelity.io/
 * http://www.spacevr.co/#spacevr
