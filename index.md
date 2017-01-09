@@ -8,7 +8,7 @@ I used to be interested in the things I could buy.  Now I'm interestd in the thi
 VR and distributed marketplaces.  
 
 ### Shoutouts - People and Projects worth looking
-* @nickyspitz I fucking love your stats on your page.  Expect this page to look like your page soon :-)  
+* @nickyspitz I  love your stats.  Expect this page to look like your page soon :-)  
 * [IPFS](https://ipfs.io/)
 * [UPORT](https://angel.co/uport/jobs)
 * [Solid](https://solid.mit.edu/)
