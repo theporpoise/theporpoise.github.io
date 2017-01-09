@@ -11,10 +11,10 @@ VR and distributed marketplaces.
 * @nickyspitz I fucking love your stats on your page.  Expect this page to look like your page soon :-)  
 * [IPFS](https://ipfs.io/)
 * [UPORT](https://angel.co/uport/jobs)
-* https://solid.mit.edu/
-* https://highfidelity.io/
-* http://www.spacevr.co/#spacevr
-* https://metamask.io/
+* [Solid](https://solid.mit.edu/)
+* [High Fidelity](https://highfidelity.io/)
+* [SpaceVR](http://www.spacevr.co/#spacevr)
+* [MetaMask](https://metamask.io/)
 
 ### My love of Data On Pause
 I have a lot of experience with statistics, analysis, game theory, and a touch of machine learning.  I really do love data, but I somehow got a bit bored and became focused more on the backend foundational systems, the platforms, for interaction.  Hence the interest shift to VR and distributed marketplaces.  
