@@ -1,2 +1,8 @@
 name: Matthew Gould
 markdown: kramdown
+
+title: Matthew Gould
+description: Data Rules Everything Around Me
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
